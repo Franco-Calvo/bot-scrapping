@@ -24,7 +24,7 @@ CHAT_ID_LOGS=
 ## Ejecutar el script con el siguiente comando
 
 ```bash
-python nombre_de_tu_script.py
+python scrapper.py
 ```
 
 El bot iniciará y comenzará a enviar actualizaciones de cotización a los IDs de chat configurados
